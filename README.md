@@ -13,6 +13,6 @@ D: Porta fechada que só pode ser aberta com a chave.
 =: Porta aberta após o jogador interagir com a chave.
 O: Botão que o jogador pode interagir para ativar mecanismos.
 #: Espinho que reinicia a fase se o jogador tocar nele.
->: Teletransporte que move o jogador para outro ponto do mapa.
+o >: Teletransporte que move o jogador para outro ponto do mapa.
 X: Monstro nível 1 com movimento aleatório.
 V: Monstro nível 2 que segue o jogador.
