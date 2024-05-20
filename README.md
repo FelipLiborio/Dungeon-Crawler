@@ -1,5 +1,5 @@
 # Dungeon-Crawler1
-Jogo de Aventura em C - Trabalho Acadêmico
+Jogo de Aventura em C - Trabalho Acadêmico.
 Este repositório apresenta o projeto de um jogo de aventura desenvolvido em linguagem C como parte de um trabalho acadêmico, realizado pelos alunos Felipe Gabriel Souza Liborio e Gabriel Verbicaro da Ponte Souza. O jogo é um exercício prático que tem como objetivo desenvolver habilidades de resolução de problemas e raciocínio lógico algorítmico. 
 
 Sobre o Jogo
